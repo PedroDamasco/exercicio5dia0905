@@ -4,7 +4,7 @@ Exercicio 5 Dia 23.05.2022, Eleições.
 
 Inicio;
   Enquanto estiver eleitores, Faça:
-    Exibir Candidatos.
+    Se Exibir Candidatos.
       Opções disponiveis:
         PT;
         PDL;
@@ -13,7 +13,7 @@ Inicio;
         Voto Branco;
       Opção selecionada;
       Soma ao Escolhido;
-      Existe Eleitores ? 
+     Se Existe Eleitores ? 
         Sim - Retornar ao inicio
         Não - Exibir resultado de todos os Canditados.
   
